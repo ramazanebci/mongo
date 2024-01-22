@@ -1,10 +1,8 @@
 # ![Logo](docs/leaf.svg) MongoDB README
-
 Welcome to MongoDB!
-
 ## Components
 
-  - `mongod` - The database server.
+ - `mongod` - The database server.
   - `mongos` - Sharding router.
   - `mongo`  - The database shell (uses interactive javascript).
 
